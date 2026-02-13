@@ -160,5 +160,5 @@ a {
     background-image: url('https://raw.githubusercontent.com/n0cturneler/JACKALCULUS/refs/heads/main/src/material/images/starsbg2.png');
     background-size: cover;
     background-position: top;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
