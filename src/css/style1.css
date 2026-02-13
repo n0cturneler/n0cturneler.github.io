@@ -5,7 +5,7 @@ body {
     color: rgb(180, 231, 255);
 }
 
-header {
+.main_header {
     margin: 20px;
     border: 5px solid rgb(186, 149, 255);
     border-radius: 15px; 
@@ -34,7 +34,32 @@ header {
    
 }
 
+.sub_header {
+     margin: 20px;
+    border: 5px solid rgb(186, 149, 255);
+    border-radius: 15px; 
 
+    padding: 30px;
+
+    color: white;
+
+    font-family: "Archivo Black", sans-serif;
+
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+
+    text-decoration: none;
+    text-align: center;
+
+    letter-spacing: 1.5px;
+
+    background-color: #d534eb;
+    background-image: url('placeholder');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
 
 a {
     margin: 20px;
